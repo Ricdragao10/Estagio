@@ -1,0 +1,4 @@
+name: avalia
+description: Este é o projeto final do estagio.
+type: module
+core_version_requirement: ^9
